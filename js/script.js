@@ -10,7 +10,8 @@ const buttonNext = document.querySelector('.btn-next');
 
 let searchPokemon = 1;
 
-
+const audio = document.querySelector('.audio');
+audio.volume = 0.05;
 
 
 
